@@ -13,7 +13,7 @@ class Dashboard extends ComponentBase
     }
 
     protected function
-    GetAccessLog()
+    GetAccessLogData()
     {
 
     }
