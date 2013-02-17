@@ -1,6 +1,6 @@
 <?php
 
-use Reverb\SiteConfig;
+use Dashboard\SiteConfig;
 
 class ComponentBase
 {
