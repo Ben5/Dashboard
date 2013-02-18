@@ -15,6 +15,7 @@ class Dashboard extends ComponentBase
     protected function
     GetAccessLogData()
     {
-
+        $this->SetOnlyTemplate(true);
+        $this->SetViewName('dashboard_errorlog');
     }
 }
